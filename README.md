@@ -13,7 +13,9 @@ For our purposes, we will examine which genres are the most successful in the bo
 
  - 	What genre of films will have a better chance of producing box office numbers?
  - 	How does time of year affect profitability for certain genres?
+ -  What genre of films are more likely being fond of the audience? 
  - 	Who are the directors creating high grossing films and highly rated films?
+ -  What are primary professions (other than directors) of selective directors who conducted not only profitable but attractive movies?
 
 
 # Data Setup:
@@ -80,6 +82,8 @@ Animation, Mystery and Sci-Fi movies perform consistently well year-round and we
 
 It is interesting that all five genres observed low points in the fall and winter months. We think it's worth a closer examination on the movies released during these times. Examining whether this is the result of audience trends, the quality of films released, or some other factor we have not considered yet can pose interesting data moving forward. Equally as important as determining what makes a film a success is determining what makes a film flop.
 
+
+**Question 3: What genre of films are more likely being fond of the audience?**
 
 ```python
 
