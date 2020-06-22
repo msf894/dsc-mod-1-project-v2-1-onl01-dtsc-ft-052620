@@ -120,7 +120,9 @@ In imdb* movie data-sets, Top 5 genres in rating region of 9-10 are documentary,
 
 ## Future Work:
 
-It might be worth our energies to categorize tmdb* data-sets in terms of average votes and popularity, respectively, into different groups. However, since the coverage of popularity is way much broader than average votes, which is from 1 to 10, it's a bit tricky to chop the popularity into several sub-groups. I also took a look at the correlation between average votes and popularity. I didn't see an apparent dependency between them. Therefore, we couldn't interpret a movie with higher average votes must be more popular. We would like to see what Top 5 genres are in terms of popularity (from 1 to 80). Prior to the dissecting the popularity into sub-regions, we might try to find any correlated features with the popularity from other factors such as box office numbers, net interests and so on.      
+It might be worth our energies to categorize tmdb* data-sets in terms of average votes and popularity, respectively, into different groups. However, since the coverage of popularity is way much broader than average votes, which is from 1 to 10, it's a bit tricky to chop the popularity into several sub-groups. I also took a look at the correlation between average votes and popularity. I didn't see an apparent dependency between them. Therefore, we couldn't interpret a movie with higher average votes must be more popular. We would like to see what Top 5 genres are in terms of popularity (from 1 to 80). Prior to the dissecting the popularity into sub-regions, we might try to find any correlated features with the popularity from other factors such as box office numbers, net interests and so on.  
+
+![Question_Three_2_Graph](./Images/Question_Three_2_Graph.png)
 
 **Question 4: Who are the directors creating high grossing films and highly rated films?**
 
